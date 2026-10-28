@@ -1,0 +1,141 @@
+{
+  "site_title": "COVA PEP | Science \u2022 Beauty \u2022 Vitality",
+  "export_date": "2026-10-26",
+  "original_url": "https://cova-boutique-collection.fondelk13.chatgpt.site",
+  "source_commit": "d74853d12ce88bb3e0b205660e00d7f5c46dbab6",
+  "format": "Static HTML/CSS/JavaScript with product JSON and bundled assets",
+  "web_root": "site",
+  "product_count": 24,
+  "product_image_count": 24,
+  "files": [
+    {
+      "path": "site/app.js",
+      "bytes": 1991
+    },
+    {
+      "path": "site/assets/COVA_Collection_One_Sheet.pdf",
+      "bytes": 113024
+    },
+    {
+      "path": "site/assets/cova-logo.jpg",
+      "bytes": 52828
+    },
+    {
+      "path": "site/assets/floral.jpg",
+      "bytes": 74983
+    },
+    {
+      "path": "site/assets/products/cova-01.png",
+      "bytes": 1738276
+    },
+    {
+      "path": "site/assets/products/cova-02.png",
+      "bytes": 1727986
+    },
+    {
+      "path": "site/assets/products/cova-03.png",
+      "bytes": 1712519
+    },
+    {
+      "path": "site/assets/products/cova-04.png",
+      "bytes": 1735761
+    },
+    {
+      "path": "site/assets/products/cova-05.png",
+      "bytes": 1744893
+    },
+    {
+      "path": "site/assets/products/cova-06.png",
+      "bytes": 1760904
+    },
+    {
+      "path": "site/assets/products/cova-07.png",
+      "bytes": 1722884
+    },
+    {
+      "path": "site/assets/products/cova-08.png",
+      "bytes": 1742403
+    },
+    {
+      "path": "site/assets/products/cova-09.png",
+      "bytes": 1736237
+    },
+    {
+      "path": "site/assets/products/cova-10.png",
+      "bytes": 1720542
+    },
+    {
+      "path": "site/assets/products/cova-11.png",
+      "bytes": 1731901
+    },
+    {
+      "path": "site/assets/products/cova-12.png",
+      "bytes": 1734539
+    },
+    {
+      "path": "site/assets/products/cova-13.png",
+      "bytes": 1738932
+    },
+    {
+      "path": "site/assets/products/cova-14.png",
+      "bytes": 1726731
+    },
+    {
+      "path": "site/assets/products/cova-15.png",
+      "bytes": 1810757
+    },
+    {
+      "path": "site/assets/products/cova-16.png",
+      "bytes": 1743455
+    },
+    {
+      "path": "site/assets/products/cova-17.png",
+      "bytes": 1743719
+    },
+    {
+      "path": "site/assets/products/cova-18.png",
+      "bytes": 1760386
+    },
+    {
+      "path": "site/assets/products/cova-19.png",
+      "bytes": 1743671
+    },
+    {
+      "path": "site/assets/products/cova-20.png",
+      "bytes": 1742540
+    },
+    {
+      "path": "site/assets/products/cova-21.png",
+      "bytes": 1743506
+    },
+    {
+      "path": "site/assets/products/cova-22.png",
+      "bytes": 1750976
+    },
+    {
+      "path": "site/assets/products/cova-23.png",
+      "bytes": 1738755
+    },
+    {
+      "path": "site/assets/products/cova-24.png",
+      "bytes": 1755584
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 8646
+    },
+    {
+      "path": "site/products.json",
+      "bytes": 23729
+    },
+    {
+      "path": "site/style.css",
+      "bytes": 10529
+    }
+  ],
+  "excluded": [
+    "Git history and credentials",
+    "ChatGPT hosting configuration and access grants",
+    "Platform-managed authentication"
+  ]
+}
